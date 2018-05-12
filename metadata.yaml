@@ -1,0 +1,27 @@
+_repo: Automobile-BiographiesAn-Account-of-the-Lives-and-the-Work-of-Those-Who-Have-Been-Identified-__41891
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41891-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Weeks, Lyman Horace
+    gutenberg_agent_id: '41415'
+    url: http://www.gutenberg.org/2009/agents/41415
+description: ''
+gutenberg_issued: '2013-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobiles -- History'
+- !lcc 'TL'
+title: 'Automobile Biographies
+
+  An Account of the Lives and the Work of Those Who Have Been Identified with the
+  Invention and Development of Self-Propelled Vehicles on the Common Roads'
+url: http://www.gutenberg.org/ebooks/41891
